@@ -1,0 +1,9 @@
+.navbar h2{
+    font-weight: 700;
+    font-size:xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar a{
+    color: black;
+    margin-left: 30px;
+}
